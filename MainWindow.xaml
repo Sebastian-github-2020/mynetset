@@ -125,6 +125,7 @@
             x:Name="mainDnsTextBox"
             Grid.Row="3"
             Grid.Column="2"
+            IsReadOnly="False"
             Style="{StaticResource newText}" />
         <TextBox
             Grid.Row="3"
@@ -143,6 +144,7 @@
             x:Name="alternateDnsTextBox"
             Grid.Row="4"
             Grid.Column="2"
+            IsReadOnly="False"
             Style="{StaticResource newText}" />
         <TextBox
             Grid.Row="4"
